@@ -1,0 +1,11 @@
+{
+  "name": "react-progress-pie",
+  "version": "0.0.0",
+  "description": "React progress pie component.",
+  "author": "Ian Sutherland",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
